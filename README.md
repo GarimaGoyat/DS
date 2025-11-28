@@ -1,1 +1,1 @@
-This repository contains solutions to DSA lab assignments implemented in C++.
+This repository contains solutions to DS lab assignments implemented in C++.
